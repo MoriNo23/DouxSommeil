@@ -10,15 +10,15 @@
 }
 @font-face {
   font-family: "Joti ones";
-  src: url("/src/fonts/JotiOne-Regular.ttf") format("truetype");
+  src: url("src/fonts/JotiOne-Regular.ttf") format("truetype");
 }
 @font-face {
   font-family: "Anklepant";
-  src: url("/src/fonts/Anklepan.ttf") format("truetype");
+  src: url("src/fonts/Anklepan.ttf") format("truetype");
 }
 
 body {
-  background: url("milad-fakurian-IJ3-xr5BpEE-unsplash.jpg");
+  background: url("milad-fakurian-IJ3-xr5BpEE-unsplash.jpg"), #000;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

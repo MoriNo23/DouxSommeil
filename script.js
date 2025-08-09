@@ -121,7 +121,7 @@ banners.forEach((banner) => {
       const myModal = document.createElement("div");
     myModal.classList.add("myModal");
     document.body.appendChild(myModal);
-      myModal.innerHTML += `<img  class="image-modal" src="/originales/${urlname[1]}-original.${urlname[2]}"/>
+      myModal.innerHTML += `<img  class="image-modal" src="originales/${urlname[1]}-original.${urlname[2]}"/>
       <h1>${e.currentTarget.dataset.desc}</h1>`;
       
       myModal.addEventListener("click", (e) => {
