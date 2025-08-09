@@ -10,11 +10,11 @@
 }
 @font-face {
   font-family: "Joti ones";
-  src: url("/src/fonts/JotiOne-Regular.ttf") format("opentype");
+  src: url("/src/fonts/JotiOne-Regular.ttf") format("truetype");
 }
 @font-face {
   font-family: "Anklepant";
-  src: url("/src/fonts/Anklepan.ttf") format("opentype");
+  src: url("/src/fonts/Anklepan.ttf") format("truetype");
 }
 
 body {
